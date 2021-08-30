@@ -1,7 +1,16 @@
-## iOS 커리어 스타터 캠프
+## ios-stream-chat
 
-### 스트림 채팅 앱 저장소
+![ios-stream-chat](https://user-images.githubusercontent.com/38858863/131316853-d2042845-ec9b-43bc-a327-df2205bda000.gif)
 
-- 이 저장소를 자신의 저장소로 fork하여 프로젝트를 진행합니다
+## Code Review
 
+- [Step1](https://github.com/yagom-academy/ios-stream-chat/pull/5)
+- [Step2](https://github.com/yagom-academy/ios-stream-chat/pull/15)
 
+## 팀원
+
+- [KangKyung(개인 프로젝트)](https://github.com/KangKyung)
+
+## 프로젝트 수행
+
+- 기간: 2021.03.08 ~ 2021.03.19
